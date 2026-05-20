@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./resource/jangdokdae_logo.png" alt="JangDokDae" width="100%"/>
+<img src="../resource/jangdokdae_logo.png" alt="JangDokDae" width="100%"/>
 
 
  [클라이언트 저장소](https://github.com/9990-jangdokdae/jangdokdae-client) · [서버 저장소](https://github.com/9990-jangdokdae/jangdokdae-server)
@@ -36,7 +36,7 @@
 <table>
   <tr>
     <td align="center" width="25%" valign="top">
-      <img src="./resource/p1.jpg" width="160" alt="김민경"/><br/><br/>
+      <img src="../resource/p1.jpg" width="160" alt="김민경"/><br/><br/>
       <b>김민경</b><br/><br/>
       <sub>PM</sub><br/>
       <sub>시스템 아키텍처 설계</sub><br/>
@@ -46,7 +46,7 @@
       <sub>UI/UX 온보딩</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <img src="./resource/p3.jpg" width="160" alt="이수범"/><br/><br/>
+      <img src="../resource/p3.jpg" width="160" alt="이수범"/><br/><br/>
       <b>이수범</b><br/><br/>
       <sub>데이터 수집 파이프라인 설계</sub><br/>
       <sub>기업 데이터 수집</sub><br/>
@@ -55,14 +55,14 @@
       <sub>Server CI/CD</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <img src="./resource/p2.jpg" width="160" alt="장원기"/><br/><br/>
+      <img src="../resource/p2.jpg" width="160" alt="장원기"/><br/><br/>
       <b>장원기</b><br/><br/>
       <sub>뉴스 분석 파이프라인 설계</sub><br/>
       <sub>DB 설계</sub><br/>
       <sub>API 설계</sub>
     </td>
     <td align="center" width="25%" valign="top">
-      <img src="./resource/p4.jpg" width="160" alt="박영기"/><br/><br/>
+      <img src="../resource/p4.jpg" width="160" alt="박영기"/><br/><br/>
       <b>박영기</b><br/><br/>
       <sub>주린이 번역 & 퀴즈</sub><br/>
       <sub>주식 용어 사전</sub><br/>
